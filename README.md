@@ -113,12 +113,12 @@ Renders the closing HTML tags and footer
 
 ## Future Enhancements
 
-- 🔍 Search and filter functionality
-- 📊 Dashboard statistics
-- 🗑️ Soft delete functionality
-- 📥 Bulk import/export
-- 📧 Email notifications
-- 👤 User authentication
+- Search and filter functionality
+- Dashboard statistics
+- Soft delete functionality
+- Bulk import/export
+- Email notifications
+- User authentication
 
 ## License
 
