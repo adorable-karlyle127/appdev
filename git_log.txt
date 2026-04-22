@@ -1,0 +1,10 @@
+*   f423892 (HEAD -> main, origin/main, origin/HEAD) Merge pull request #2 from adorable-karlyle127/feature-ui-improvement
+|\  
+| * ce541af (origin/feature-ui-improvement, feature-ui-improvement) Improved UI layout and styling - Rudy Damason
+* |   115863e Merge pull request #1 from adorable-karlyle127/feature-delete-module
+|\ \  
+| |/  
+|/|   
+| * ddba50e (origin/feature-delete-module) Added delete button with confirmation modal - Karlyle Adorable
+|/  
+* a8b787c Add files via upload
