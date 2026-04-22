@@ -43,6 +43,7 @@ renderPageStart('Students', 'Manage all student records');
                     <td data-label="Actions">
                         <div class="actions">
                             <a href="edit.php?id=<?= $s['id'] ?>" class="button button-secondary" style="padding: 8px 16px; font-size: 0.9rem;">Edit</a>
+                            <a href="delete.php?id=<?= $s['id'] ?>" class="button button-danger" style="padding: 8px 16px; font-size: 0.9rem;" onclick="return confirm('Are you sure you want to delete this student?');">Delete</a>
                         </div>
                     </td>
                 </tr>
